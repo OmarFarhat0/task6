@@ -1,0 +1,14 @@
+{
+  "name": "post-management",
+  "version": "1.0.0",
+  "description": "A simple Express API for managing posts with CRUD operations, using a JSON file for data storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Farhat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
